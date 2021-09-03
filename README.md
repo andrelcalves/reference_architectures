@@ -6,7 +6,7 @@ Conjunto de referências de arquitetura utilizado para insights
 - [Creating a "SuperApp" with Flutter](https://tonytruong.net/creating-a-superapp-with-flutter)
 - [MiniApp Standardization White Paper](https://www.w3.org/TR/mini-app-white-paper/#introduction)
 - [Cielo Pay - Mini Apps](https://desenvolvedores.cielo.com.br/api-portal/sites/default/files/Cielo_Pay_-_Mini_Apps_V7.pdf)
-
+- [Mobile at Scale with React Native & Multi-Module Architecture](https://www.droidcon.com/media-detail?video=352688424)
 
 ### Plataforma 
 [https://building.nubank.com.br/scaling-with-flutter)
