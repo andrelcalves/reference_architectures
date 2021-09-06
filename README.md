@@ -12,5 +12,9 @@ Conjunto de referências de arquitetura utilizado para insights
 [https://building.nubank.com.br/scaling-with-flutter)
 
 #### Pesquisa
-2021 Developer Survey(https://insights.stackoverflow.com/survey/2021#overview)
+[2021 Developer Survey](https://insights.stackoverflow.com/survey/2021#overview)
 [Cross-platform mobile frameworks used by software developers worldwide from 2019 to 2021](https://www.statista.com/statistics/869224/worldwide-software-developer-working-hours)
+
+
+### White Label
+[VDT19 One app to rule them all - Building a white-label application with React Native](https://www.youtube.com/watch?v=M0Y01qrXQHo)
