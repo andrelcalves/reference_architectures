@@ -7,6 +7,9 @@ Conjunto de referências de arquitetura utilizado para insights
 - [MiniApp Standardization White Paper](https://www.w3.org/TR/mini-app-white-paper/#introduction)
 - [Cielo Pay - Mini Apps](https://desenvolvedores.cielo.com.br/api-portal/sites/default/files/Cielo_Pay_-_Mini_Apps_V7.pdf)
 - [Mobile at Scale with React Native & Multi-Module Architecture](https://player.vimeo.com/video/352688424)
+- [React Native at wix the Architecture Modular](https://medium.com/wix-engineering/react-native-at-wix-the-architecture-db6361764da6)
+- [React Native at wix the Architecture Modular ii Deep Dive](https://medium.com/wix-engineering/react-native-at-wix-the-architecture-ii-deep-dive-9cfcb3c2822c)
+
 
 ### Plataforma 
 [https://building.nubank.com.br/scaling-with-flutter)
