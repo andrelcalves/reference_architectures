@@ -14,6 +14,9 @@ Conjunto de referências de arquitetura utilizado para insights
 ### Plataforma 
 [https://building.nubank.com.br/scaling-with-flutter)
 
+### Desenho de Soluções
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+
 #### Pesquisa
 [2021 Developer Survey](https://insights.stackoverflow.com/survey/2021#overview)
 [Cross-platform mobile frameworks used by software developers worldwide from 2019 to 2021](https://www.statista.com/statistics/869224/worldwide-software-developer-working-hours)
