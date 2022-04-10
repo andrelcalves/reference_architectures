@@ -4,9 +4,9 @@ Conjunto de referências de arquitetura utilizado para insights
 
 ## Mobile
 ### SuperApps / MicroApps
+- [W3C - MiniApp Standardization White Paper](https://www.w3.org/TR/mini-app-white-paper/#introduction)
 - [Apps within an App: Welcome to the World of Micro Apps](https://www.robosoftin.com/blog/world-of-micro-apps)
 - [Creating a "SuperApp" with Flutter](https://tonytruong.net/creating-a-superapp-with-flutter)
-- [MiniApp Standardization White Paper](https://www.w3.org/TR/mini-app-white-paper/#introduction)
 - [Cielo Pay - Mini Apps](https://desenvolvedores.cielo.com.br/api-portal/sites/default/files/Cielo_Pay_-_Mini_Apps_V7.pdf)
 
 ### Architecture Modular (Arquitetura Modular)
@@ -30,6 +30,6 @@ Conjunto de referências de arquitetura utilizado para insights
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 #### Surveys (Pesquisas)
-- [2021 Developer Survey](https://insights.stackoverflow.com/survey/2021#overview)
+- [StackOverFlow 2021 Developer Survey](https://insights.stackoverflow.com/survey/2021#overview)
 
 
