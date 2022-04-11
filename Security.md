@@ -1,0 +1,1 @@
+[Securing Kafka® Infrastructure at Uber](https://eng.uber.com/securing-kafka-infrastructure-at-uber/)
