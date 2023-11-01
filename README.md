@@ -1,6 +1,5 @@
-﻿# arquitetura-referências
-Conjunto de referências de arquitetura utilizado para insights
-"Arquitetura não é uma receita de bolo, as decisões/escolhas dependem da sua necessidade."
+﻿# References Architectures
+Set of architectural references used for insights: "Architecture is not a one-size-fits-all solution; decisions and choices depend on your specific needs."
 
 ## Mobile
 ### SuperApps / MicroApps
@@ -26,10 +25,13 @@ Conjunto de referências de arquitetura utilizado para insights
 
 ## Distributed Systems (Sistemas Distribuidos)
 
-### Desenho de Soluções
+### System Design
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
-#### Surveys (Pesquisas)
-- [StackOverFlow 2021 Developer Survey](https://insights.stackoverflow.com/survey/2021#overview)
+## Surveys 
 
-
+- [StackOverFlow 2021 Developer Survey](https://survey.stackoverflow.co/2023)
+- [StackOverFlow 2021 Developer Survey](https://survey.stackoverflow.co/2022)
+- [StackOverFlow 2021 Developer Survey](https://survey.stackoverflow.co/2021)
+- [The State of Developer Ecosystem 2022](https://www.jetbrains.com/lp/devecosystem-2022)
+- [Gitlab DevSecOps Landscape 2020](https://about.gitlab.com/developer-survey/previous/2020)
